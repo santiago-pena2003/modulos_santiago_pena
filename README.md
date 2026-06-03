@@ -1,7 +1,7 @@
 ## Módulo_1
 
 # Actividad 5
-|Peña Santiago|[CV](https://github.com/user-attachments/files/26253903/CV.-.Santiago.Joaquin.Pena.pdf)|
+[CV](https://github.com/user-attachments/files/26253903/CV.-.Santiago.Joaquin.Pena.pdf)|
 
 ## Entrega Resumen en OVERLEAF 
 
